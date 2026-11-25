@@ -39,3 +39,10 @@ Add your real numbers here after running `train.py` (copy from `artifacts/compar
 ## Data & ethics
 Kaggle/ULB dataset: 284,807 transactions (Sept 2013, European cardholders), 492 frauds; features V1-V28 are PCA-anonymised.
 Fraud patterns drift over time, false alarms affect real customers, and every flag should be reviewed by a human.
+
+## Screenshots
+
+![Overview](docs/overview.png)
+![Model comparison](docs/comparison.png)
+![Threshold and cost tuning](docs/threshold.png)
+![Scoring transactions](docs/scoring.png)
