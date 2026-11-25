@@ -1,7 +1,9 @@
+**Live demo:** https://fraud-detection-dashboard-7nnj3jwnyfdcw7upzszzg7.streamlit.app/
+
 # 🛡️ Credit Card Fraud Detection: ML Dashboard
 
 End-to-end machine learning project: imbalanced classification with ensemble models, a cost-aware decision threshold,
-and an interactive Streamlit dashboard. Built for the *Real-World ML Project Bank* (Project 19, Ensemble Learning).
+and an interactive Streamlit dashboard. 
 
 > Decision-support demo only. Not validated for real financial decisions.
 
