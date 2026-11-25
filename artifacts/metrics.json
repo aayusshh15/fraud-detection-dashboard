@@ -1,0 +1,26 @@
+{
+  "source": "real",
+  "rows": 283726,
+  "fraud_rows": 473,
+  "fraud_rate": 0.001667101358352777,
+  "split": {
+    "train": 170235,
+    "val": 56745,
+    "test": 56746
+  },
+  "best_model": "Voting (LR+RF+GB)",
+  "threshold": 0.693327701803085,
+  "test_metrics": {
+    "Precision": 0.9114,
+    "Recall": 0.7579,
+    "F1": 0.8276,
+    "ROC_AUC": 0.9655,
+    "PR_AUC": 0.8109
+  },
+  "confusion": {
+    "tn": 56644,
+    "fp": 7,
+    "fn": 23,
+    "tp": 72
+  }
+}
